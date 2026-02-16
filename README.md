@@ -3,7 +3,6 @@
 
 Assistant Research Professor at University of Cambridge · PhD · 17 years of applied research and product-facing experience across healthcare, finance, biology, supply-chains and infrastructure. [Website](https://neelsoumya.github.io/)
 
-![image](consulting.png)
 
 What I offer companies (consulting)
 
